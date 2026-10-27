@@ -1,0 +1,17 @@
+# generated data (regenerate with the script)
+data/
+# secrets
+.env
+*.pem
+*.p8
+*.key
+config.toml
+connections.toml
+# python
+.venv/
+__pycache__/
+*.pyc
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
